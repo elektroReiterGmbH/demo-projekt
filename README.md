@@ -1,6 +1,6 @@
 # Demo Projekt
 
-Dieses Projekt zeigt wie man mit Git und GitHub arbeidet.
+Dieses Projekt zeigt wie man mit Git und GitHub arbeitet.
 
 ## Installation
 
@@ -10,7 +10,7 @@ cd demo-projekt
 `````n
 ## Verwendung
 
-Das Projekt enthaelt Hilfsskripte fuer den Arbeitsaltag.
+Das Projekt enthaelt Hilfsskripte fuer den Arbeitsalltag.
 
 ## Lizenz
 
